@@ -22,10 +22,10 @@ serversocket.listen(5)
 
 while True:
     # 建立客户端连接
+    print("Host name: %s" % str(host))
     clientsocket, addr = serversocket.accept()
-
     print("连接地址: %s" % str(addr))
-
     msg = '欢迎访问菜鸟教程！' + "\r\n"
     clientsocket.send(msg.encode('utf-8'))
     clientsocket.close()
+    #serversocket.timeout()
