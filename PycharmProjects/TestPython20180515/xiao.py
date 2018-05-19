@@ -69,8 +69,11 @@ else:
 
 # regex sub function
 phoneNumber = "13018096950 #xiao 123456"
-subTemplate = r'[0-9]*'
+subTemplate = r'[^0-9]'
 matchObj = re.search(subTemplate, phoneNumber, re.M|re.I)
 print(matchObj.group())
 num = re.sub(subTemplate, "", phoneNumber)
 print("Number: " + num)
+
+
+

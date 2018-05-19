@@ -4,3 +4,4 @@ learning for GitHub
 xiao gong wei
 
 2018.04.01
+If you want to donate, Alipay account:270734392@qq.com
