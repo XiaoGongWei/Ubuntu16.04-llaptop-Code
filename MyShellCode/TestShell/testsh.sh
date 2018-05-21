@@ -1,4 +1,4 @@
-#!/bin/bash 
+#!/usr/bin/env bash
 clear
 #use IFS variable
 data="111,222,333,444,555,666"

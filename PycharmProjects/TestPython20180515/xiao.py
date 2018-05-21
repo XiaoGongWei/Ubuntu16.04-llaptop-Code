@@ -1,13 +1,14 @@
-#!/usr/bin/python2
+#!/usr/bin/python3
 #-*-coding:utf-8-*-
 import numpy as np
 import scipy.io as sio
 import calendar
 from mysupport import *
 import MyPackge
-import sys
 import re
-
+import sys
+print(sys.version)
+print(sys.version_info)
 print("xiao")
 print np.zeros([10, 10])
 MD_contends = sio.loadmat('./Data/MD/all_md.mat')
