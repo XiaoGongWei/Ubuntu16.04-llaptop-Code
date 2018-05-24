@@ -1,0 +1,4 @@
+Tue, 22 May 2018 14:42:45 TestLogging.py[line:18] DEBUG this is debug
+Tue, 22 May 2018 14:42:45 TestLogging.py[line:19] INFO this is info
+Tue, 22 May 2018 14:42:45 TestLogging.py[line:20] WARNING this is warning
+Tue, 22 May 2018 14:42:45 TestLogging.py[line:21] ERROR this is error
