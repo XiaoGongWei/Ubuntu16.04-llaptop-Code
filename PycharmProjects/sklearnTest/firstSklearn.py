@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.neural_network import MLPClassifier
 from sklearn.datasets.samples_generator import make_classification
 import pickle
-
+import tensorflow as tf
 import numpy as np
 
 # load data
@@ -68,7 +68,7 @@ print("MLPClassifier params: ", model1.get_params())
 
 # save model
 with open("model.pickle", "wb") as f:
-    pickle.dump(model1, f, 2)
+    pickle.dump(model, f, 2)
 
 # save some data
 with open("iris_data.pickle", "wb") as f:
