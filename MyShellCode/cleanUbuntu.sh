@@ -3,4 +3,5 @@ sudo apt-get remove
 sudo apt-get clean
 sudo apt-get autoclean
 sudo apt-get autoremove
+sudo apt autoremove
 
