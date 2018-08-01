@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/intel.config.composerxe.exe.debug.1028106890/LD_LIBRARY_PATH/delimiter=\:
+environment/project/intel.config.composerxe.exe.debug.1028106890/LD_LIBRARY_PATH/operation=replace
+environment/project/intel.config.composerxe.exe.debug.1028106890/LD_LIBRARY_PATH/value=/opt/intel/.pset/db/../../compilers_and_libraries_2018.2.199/linux/compiler/lib/intel64\:/opt/intel/compilers_and_libraries_2018.2.199/linux/mpi/lib64\:/opt/intel/mkl/lib/intel64
+environment/project/intel.config.composerxe.exe.debug.1028106890/append=true
+environment/project/intel.config.composerxe.exe.debug.1028106890/appendContributed=true
