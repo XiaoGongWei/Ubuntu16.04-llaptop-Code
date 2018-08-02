@@ -28,6 +28,8 @@ while 1
     all_position = [all_position;position];
 end
 maskImage = logical(all_maskImage);
+save_mask_name = [file_name '_mask.tif'];
+path_name = fullfile(image_floder, save_mask_name);
 isFineshed = 1;
 % isFineshed = qusestionDlg('Do you get Water Area');
 if isFineshed == 1 && size(all_position, 1) > 2 
@@ -38,8 +40,6 @@ if isFineshed == 1 && size(all_position, 1) > 2
 %     maskedImage = image_data(:,:,1) .* cast(~maskImage, 'like', image_data);
     imshow(maskImage, 'InitialMagnification', 'fit');
     isRight = qusestionDlg('Dou you wang save maskImage');
-    save_mask_name = [file_name '_mask.tif'];
-    path_name = fullfile(image_floder, save_mask_name);
     if isRight == 1
         imwrite(maskImage, path_name);
     end
@@ -47,6 +47,7 @@ if isFineshed == 1 && size(all_position, 1) > 2
         close(h_contrast);
     end
 else
+    imwrite(maskImage, path_name);
     if exist(image_file_name, 'file') && isdelete
         delete(image_file_name);
     end
