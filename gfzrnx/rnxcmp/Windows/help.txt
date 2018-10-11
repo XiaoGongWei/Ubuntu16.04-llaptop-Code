@@ -1,0 +1,11 @@
+Help for Windows version of RINEX decompression software
+--------------------------------------------------------
+
+- copy the following files in a same directory :
+
+compress.exe
+crx2rnx.exe
+rnx2crx.exe
+gpsdata.exe
+
+- execute gpsdata.exe
