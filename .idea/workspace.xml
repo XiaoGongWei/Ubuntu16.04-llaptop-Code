@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94ce5b34-7095-4e97-bdee-bc8cd8e0d9ae" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Ubuntu16.04-llaptop-Code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Ubuntu16.04-llaptop-Code.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPythonLib/PythonSpader/testMatplot.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyQtTest/TestQt.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyQtTest/TestQt.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +14,9 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Ubuntu16_04_llaptop_Code$GUITest.coverage" NAME="GUITest Coverage Results" MODIFIED="1526871439553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PycharmProjects/TestPython20180515" />
+    <SUITE FILE_PATH="coverage/Ubuntu16_04_llaptop_Code$testMatplot.coverage" NAME="testMatplot Coverage Results" MODIFIED="1544018565635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MyPythonLib/PythonSpader" />
     <SUITE FILE_PATH="coverage/Ubuntu16_04_llaptop_Code$testMatrix.coverage" NAME="testMatrix Coverage Results" MODIFIED="1526975687760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PycharmProjects/TestPython20180515" />
-    <SUITE FILE_PATH="coverage/Ubuntu16_04_llaptop_Code$InputTest.coverage" NAME="InputTest Coverage Results" MODIFIED="1529926637123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeraseLearning" />
+    <SUITE FILE_PATH="coverage/Ubuntu16_04_llaptop_Code$InputTest.coverage" NAME="InputTest Coverage Results" MODIFIED="1544018408390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeraseLearning" />
     <SUITE FILE_PATH="coverage/Ubuntu16_04_llaptop_Code$Unittests_in_PyQtTest.coverage" NAME="Unittests in PyQtTest Coverage Results" MODIFIED="1526893402766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyQtTest" />
     <SUITE FILE_PATH="coverage/Ubuntu16_04_llaptop_Code$LayersTest.coverage" NAME="LayersTest Coverage Results" MODIFIED="1529926130299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KeraseLearning" />
     <SUITE FILE_PATH="coverage/Ubuntu16_04_llaptop_Code$loadData.coverage" NAME="loadData Coverage Results" MODIFIED="1527165293926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PycharmProjects/sklearnTest" />
@@ -25,8 +24,35 @@
     <SUITE FILE_PATH="coverage/Ubuntu16_04_llaptop_Code$xiao__1_.coverage" NAME="xiao (1) Coverage Results" MODIFIED="1526713304842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PycharmProjects/TestPython20180515" />
     <SUITE FILE_PATH="coverage/Ubuntu16_04_llaptop_Code$firstSklearn.coverage" NAME="firstSklearn Coverage Results" MODIFIED="1527129885427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PycharmProjects/sklearnTest" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="testMatplot.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyPythonLib/PythonSpader/testMatplot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,6 +89,7 @@
         <option value="$PROJECT_DIR$/PycharmProjects/sklearnTest/loadData.py" />
         <option value="$PROJECT_DIR$/PycharmProjects/sklearnTest/firstSklearn.py" />
         <option value="$PROJECT_DIR$/PyQtTest/TestQt.py" />
+        <option value="$PROJECT_DIR$/MyPythonLib/PythonSpader/testMatplot.py" />
       </list>
     </option>
   </component>
@@ -89,7 +116,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,12 +126,23 @@
             <path>
               <item name="Ubuntu16.04-llaptop-Code" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ubuntu16.04-llaptop-Code" type="462c0819:PsiDirectoryNode" />
-              <item name="KeraseLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="MyPythonLib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ubuntu16.04-llaptop-Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ubuntu16.04-llaptop-Code" type="462c0819:PsiDirectoryNode" />
+              <item name="MyPythonLib" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonSpader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ubuntu16.04-llaptop-Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -128,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.InputTest">
+  <component name="RunManager" selected="Python.testMatplot">
     <configuration name="GUITest" type="PythonConfigurationType" factoryName="Python">
       <module name="Ubuntu16.04-llaptop-Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -224,25 +261,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="firstSklearn" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Ubuntu16.04-llaptop-Code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="/usr/bin/python2" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/sklearnTest" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/sklearnTest/firstSklearn.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="loadData" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Ubuntu16.04-llaptop-Code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,21 +280,40 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="testMatplot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Ubuntu16.04-llaptop-Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MyPythonLib/PythonSpader" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyPythonLib/PythonSpader/testMatplot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.GUITest" />
       <item itemvalue="Python.TestQt" />
-      <item itemvalue="Python.firstSklearn" />
       <item itemvalue="Python.loadData" />
       <item itemvalue="Python.LayersTest" />
       <item itemvalue="Python.InputTest" />
+      <item itemvalue="Python.testMatplot" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.testMatplot" />
         <item itemvalue="Python.InputTest" />
         <item itemvalue="Python.LayersTest" />
         <item itemvalue="Python.TestQt" />
         <item itemvalue="Python.loadData" />
-        <item itemvalue="Python.firstSklearn" />
       </list>
     </recent_temporary>
   </component>
@@ -302,25 +339,25 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1442" height="863" extended-state="6" />
+    <frame x="0" y="25" width="1440" height="824" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32872927" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32931727" />
-      <window_info anchor="bottom" x="0" y="294" width="1440" height="253" id="Run" order="2" weight="0.3577348" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20086083" />
+      <window_info anchor="bottom" x="0" y="294" width="1440" height="253" id="Run" order="2" weight="0.35745296" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3299566" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20659971" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32998565" />
+      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.32998565" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39779004" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="8" weight="0.32931727" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39652678" />
       <window_info anchor="bottom" id="Thumbnails" order="8" weight="0.32931727" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -328,7 +365,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Coverage" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="8" weight="0.32850942" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -390,8 +427,13 @@
           <line>6</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MyPythonLib/PythonSpader/testMatplot.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="29" />
+      <option name="time" value="30" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -416,53 +458,16 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PycharmProjects/sklearnTest/firstSklearn.py">
+    <entry file="file://$PROJECT_DIR$/MyPythonLib/PythonSpader/testMatplot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="116">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding>
-            <element signature="e#0#37#0" expanded="true" />
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PycharmProjects/sklearnTest/firstSklearn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1218">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/sklearn/model_selection/_split.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55999">
-          <caret line="1950" column="4" lean-forward="true" selection-start-line="1950" selection-start-column="4" selection-end-line="1950" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PycharmProjects/TestPython20180515/TestLogging.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PyQtTest/QtWindows.py" />
-    <entry file="file://$PROJECT_DIR$/PycharmProjects/TestPython20180515/xiao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="42" column="24" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
-          <folding>
-            <element signature="e#39#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PycharmProjects/TestPython20180515/GUITest.py" />
-    <entry file="file://$PROJECT_DIR$/PycharmProjects/TestPython20180515/GUITest.py" />
     <entry file="file://$PROJECT_DIR$/PycharmProjects/TestPython20180515/GUITest.py" />
     <entry file="file://$PROJECT_DIR$/PycharmProjects/TestPython20180515/CGITest.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -497,13 +502,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PycharmProjects/TestPython20180515/Python3-1.py" />
-    <entry file="file://$PROJECT_DIR$/PycharmProjects/TestPython20180515/Text_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MyShellCode/cleanUbuntu.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -525,13 +523,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PycharmProjects/TestPython20180515/CGITest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pushGit.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -541,16 +532,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/PycharmProjects/TestPython20180515/GUITest.py" />
-    <entry file="file://$PROJECT_DIR$/PycharmProjects/TestPython20180515/xiao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
-          <folding>
-            <element signature="e#39#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PycharmProjects/TestPython20180515/mylog.log">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -572,20 +553,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/numpy/matrixlib/defmatrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/numpy/linalg/linalg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="696" column="12" lean-forward="true" selection-start-line="696" selection-start-column="12" selection-end-line="696" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/numpy/matrixlib/defmatrix.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/numpy/linalg/linalg.py" />
     <entry file="file://$PROJECT_DIR$/PycharmProjects/TestPython20180515/testMatrix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
@@ -647,23 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PycharmProjects/sklearnTest/model.pickle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-290">
-          <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PycharmProjects/sklearnTest/firstSklearn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#37#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/sklearn/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="637">
@@ -685,20 +637,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PyQtTest/QtWindows.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="8" selection-start-line="8" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PyQtTest/TestQt.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQtTest/QtWindows.py" />
+    <entry file="file://$PROJECT_DIR$/PyQtTest/TestQt.py" />
     <entry file="file://$PROJECT_DIR$/KeraseLearning/LayersTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -719,6 +659,76 @@
           <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
           <folding>
             <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/TestPython20180515/CGITest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/switchPython.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/sklearnTest/model.pickle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/sklearnTest/firstSklearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/TestPython20180515/Text_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PycharmProjects/TestPython20180515/xiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
+          <folding>
+            <element signature="e#39#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonLib/PythonSpader/firstSpader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-637">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonLib/PythonSpader/getFacce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-477" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyPythonLib/PythonSpader/testMatplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
